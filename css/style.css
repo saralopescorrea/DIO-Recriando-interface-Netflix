@@ -1,0 +1,124 @@
+/* 
+rgba(109,109,110,0.7)
+*/
+
+/*Fonte principal*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Noto+Sans&family=Nunito&family=Poppins:wght@300&family=Quicksand:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Noto+Sans&family=Nunito&family=Poppins:wght@300&family=Quicksand:wght@500&family=Roboto+Condensed:wght@300&display=swap');
+
+/*Header*/
+:root {
+    --preta: #141414;
+    --vermelha: #e50914;
+    --branca: #e5e5e5;
+    --gradiente: #6d6d6e;
+    --segundogradiente: rgba(109,109,110,0.7);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #141414;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+}
+
+header {
+    background: linear-gradient(rgba(0,0,0,.90),rgba(0,0,0,.70)100%), url('/assets/img/header.jpg');
+    background-size:contain;
+    height: 50px;
+}
+
+header .logo {
+    color: var(--vermelha);
+    font-size: 30px;
+    margin: 10px 25px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif;  
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+header a {
+    text-decoration: none;
+    color: var(--gradiente);
+    margin-right: 15px;
+    font-size: 15px;
+}
+
+header a:hover{
+    color: white;
+}
+
+header .container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+/*Livro principal*/
+.livro-principal{
+    background: linear-gradient(rgba(0,0,0,.70),rgba(0,0,0,.60)100%), url('/assets/img/livro-principal.jpg');
+    height: 500px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.titulo{
+    font-size: 20px;
+    margin: 10px 0px;
+}
+
+.descricao{
+    text-shadow: 1px 2px 4px var(--preta);
+    margin: 10px 0px;
+}
+
+.livro-container {
+    max-width: 500px;
+    font-size: 16px;
+    margin-left: 25px;
+}
+
+.button-container{
+    margin-left: 25px;
+}
+
+.button{
+    border: none;
+    border-radius: 3px;
+    padding: 12px;
+    font-size: 16px;
+    color: white;
+    margin-right: 5px;
+    transition: .2s ease-in-out;
+    background-color: var(--segundogradiente);
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.button:hover{
+    background-color: var(--branca);
+    color: var(--preta);
+    cursor: pointer;
+}
+
+.button i {
+    margin-right: 8px;
+}
