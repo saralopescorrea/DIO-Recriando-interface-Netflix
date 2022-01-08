@@ -1,0 +1,19 @@
+@media screen and (min-width: 400px) and (max-width: 700px) {
+    header .container{
+        display: flex;
+        flex-direction: column;
+    }
+
+    header .logo{
+        font-size: 25px;
+        margin: 5px;
+    }
+    
+    header .container {
+        margin-bottom: 8px;
+    }
+
+    .livro-container{
+        max-width: 50%;
+    }
+}
