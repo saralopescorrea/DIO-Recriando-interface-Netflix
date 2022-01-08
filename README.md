@@ -16,6 +16,5 @@
 
 ![audioflix4](https://user-images.githubusercontent.com/86578073/148625660-b6b3b1b1-c55d-4726-8255-5d92c504018f.jpg)
 
-### Próximo desafio: tornar a seguinte tela responsiva:
 
-![audioflix3](https://user-images.githubusercontent.com/86578073/148625444-c27136ad-09f4-40fb-85cb-3f3ace172079.jpg)
+[comment]: <### Próximo desafio: tornar a seguinte tela responsiva: ![audioflix3](https://user-images.githubusercontent.com/86578073/148625444-c27136ad-09f4-40fb-85cb-3f3ace172079.jpg)>
