@@ -41,6 +41,12 @@
                              "n n";
     }
 
+    .background{
+        background: linear-gradient(rgba(0,0,0,.60),rgba(0,0,0,.40)100%), url('../assets/img/livro-principal.jpg');
+        height: 480px;
+        background-size: cover;
+    }
+
     header .logo{
         font-size: 18px;
         margin: 10px auto;
