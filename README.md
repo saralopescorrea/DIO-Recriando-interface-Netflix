@@ -6,15 +6,12 @@
 
 ### Tela inicial
 
-![audioflix1](https://user-images.githubusercontent.com/86578073/148625157-54b16275-56a1-4545-9a0c-949abf47b9e4.jpg)
+![tela1](https://user-images.githubusercontent.com/86578073/148710175-e739798c-4396-4038-8866-a251fc0919f8.jpg)
 
 ### Carrossel de audiobooks
 
-![audioflix2](https://user-images.githubusercontent.com/86578073/148625176-ef597da9-4fbd-4417-a9d8-c5cbf6ae8939.jpg)
+![tela2](https://user-images.githubusercontent.com/86578073/148710174-9ee5e983-cfab-4995-9fe4-43fefce89109.jpg)
 
 ### Visualização em tela menor
 
-![audioflix4](https://user-images.githubusercontent.com/86578073/148625660-b6b3b1b1-c55d-4726-8255-5d92c504018f.jpg)
-
-
-[comment]: <### Próximo desafio: tornar a seguinte tela responsiva: ![audioflix3](https://user-images.githubusercontent.com/86578073/148625444-c27136ad-09f4-40fb-85cb-3f3ace172079.jpg)>
+![tela3](https://user-images.githubusercontent.com/86578073/148710172-6568c844-7b53-4c13-bb93-f1d5a33189ef.jpg)
